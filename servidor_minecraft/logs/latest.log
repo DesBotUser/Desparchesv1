@@ -1,72 +1,216 @@
-[15:16:25] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[15:16:25] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
-[15:16:25] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[15:16:25] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[15:16:26] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Remapping server...
-[15:16:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:16:31] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
-[15:16:31] [ServerMain/INFO]: Found new data pack paper, loading it automatically
-[15:16:33] [ServerMain/INFO]: No existing world data, creating new world
-[15:16:34] [ServerMain/INFO]: Loaded 1337 recipes
-[15:16:34] [ServerMain/INFO]: Loaded 1448 advancements
-[15:16:34] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[15:16:34] [Server thread/INFO]: Loading properties
-[15:16:34] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
-[15:16:35] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Done remapping server in 8178ms.
-[15:16:35] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[15:16:35] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[15:16:35] [Server thread/INFO]: Using 4 threads for Netty based IO
-[15:16:36] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[15:16:36] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[15:16:36] [Server thread/INFO]: Default game type: SURVIVAL
-[15:16:36] [Server thread/INFO]: Generating keypair
-[15:16:36] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:16:36] [Server thread/INFO]: Using epoll channel type
-[15:16:36] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[15:16:36] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[15:16:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:16:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:16:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:16:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:16:36] [Server thread/INFO]: Preparing level "world"
-[15:16:42] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[15:16:42] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 220.8ms
-[15:16:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:16:47] [Server thread/INFO]: Preparing spawn area: 2%
-[15:16:48] [Server thread/INFO]: Preparing spawn area: 2%
-[15:16:48] [Server thread/INFO]: Preparing spawn area: 2%
-[15:16:49] [Server thread/INFO]: Preparing spawn area: 2%
-[15:16:49] [Server thread/INFO]: Preparing spawn area: 2%
-[15:16:50] [Server thread/INFO]: Preparing spawn area: 18%
-[15:16:50] [Server thread/INFO]: Preparing spawn area: 18%
-[15:16:51] [Server thread/INFO]: Preparing spawn area: 18%
-[15:16:51] [Server thread/INFO]: Preparing spawn area: 28%
-[15:16:52] [Server thread/INFO]: Preparing spawn area: 44%
-[15:16:52] [Server thread/INFO]: Preparing spawn area: 55%
-[15:16:53] [Server thread/INFO]: Preparing spawn area: 55%
-[15:16:53] [Server thread/INFO]: Time elapsed: 5987 ms
-[15:16:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[15:16:53] [Server thread/INFO]: Preparing spawn area: 4%
-[15:16:54] [Server thread/INFO]: Preparing spawn area: 24%
-[15:16:54] [Server thread/INFO]: Preparing spawn area: 61%
-[15:16:55] [Server thread/INFO]: Preparing spawn area: 85%
-[15:16:55] [Server thread/INFO]: Time elapsed: 1660 ms
-[15:16:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[15:16:55] [Server thread/INFO]: Preparing spawn area: 2%
-[15:16:55] [Server thread/INFO]: Time elapsed: 447 ms
-[15:16:55] [Server thread/INFO]: [spark] Starting background profiler...
-[15:16:55] [Server thread/INFO]: Done preparing level "world" (19.236s)
-[15:16:55] [Server thread/INFO]: Running delayed init tasks
-[15:16:55] [Server thread/INFO]: Done (31.404s)! For help, type "help"
-[15:16:55] [Server thread/INFO]: *************************************************************************************
-[15:16:55] [Server thread/INFO]: This is the first time you're starting this server.
-[15:16:55] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
-[15:16:55] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
-[15:16:55] [Server thread/INFO]: *************************************************************************************
-[15:21:38] [User Authenticator #0/INFO]: UUID of player AleKkSs01 is c155267b-de09-364f-97ac-430c17393b2c
-[15:21:40] [Server thread/INFO]: AleKkSs01 joined the game
-[15:21:40] [Server thread/INFO]: AleKkSs01[/[0:0:0:0:0:0:0:1%0]:34548] logged in with entity id 27 at ([world]-371.5, 94.0, -231.5)
-[15:22:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
-x<--[HERE]
-[15:22:43] [Server thread/INFO]: AleKkSs01 lost connection: Timed out
-[15:22:43] [Server thread/INFO]: AleKkSs01 left the game
+[07:55:37] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu122.04; Ubuntu null) on Linux 6.1.85+ (amd64)
+[07:55:37] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-65-main@287eb52 (2024-12-28T23:19:11Z) for Minecraft 1.21.4
+[07:55:37] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[07:55:46] [ServerMain/INFO]: [PluginInitializerManager] Initialized 8 plugins
+[07:55:46] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+ - Minepacks (2.4.31.4-T20240629215752)
+[07:55:46] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
+ - Geyser-Spigot (2.6.0-SNAPSHOT), GriefPrevention (16.18.4), ProtocolLib (5.4.0-SNAPSHOT-738), SetHome (6.2.3), SimpleTpa (7.4), SkinsRestorer (15.5.1), nLogin (10.4.18)
+[07:56:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[07:56:06] [ServerMain/INFO]: Loaded 1370 recipes
+[07:56:06] [ServerMain/INFO]: Loaded 1481 advancements
+[07:56:06] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[07:56:07] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 461.4ms
+[07:56:07] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[07:56:07] [Server thread/WARN]: ****************************
+[07:56:07] [Server thread/WARN]: YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER. THIS IS NOT ADVISED.
+[07:56:07] [Server thread/WARN]: YOU ARE OPENING YOURSELF UP TO POTENTIAL RISKS WHEN DOING THIS.
+[07:56:07] [Server thread/WARN]: FOR MORE INFORMATION, SEE https://madelinemiller.dev/blog/root-minecraft-server/
+[07:56:07] [Server thread/WARN]: ****************************
+[07:56:07] [Server thread/INFO]: Loading properties
+[07:56:07] [Server thread/INFO]: This server is running Paper version 1.21.4-65-main@287eb52 (2024-12-28T23:19:11Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
+[07:56:08] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[07:56:09] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[07:56:09] [Server thread/INFO]: Using 4 threads for Netty based IO
+[07:56:10] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[07:56:10] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[07:56:12] [Server thread/INFO]: Default game type: SURVIVAL
+[07:56:12] [Server thread/INFO]: Generating keypair
+[07:56:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:56:13] [Server thread/INFO]: Using epoll channel type
+[07:56:13] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[07:56:13] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[07:56:13] [Server thread/INFO]: [Minepacks] PCGF-PluginLib not installed. Switching to standalone mode!
+[07:56:14] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.4.0-SNAPSHOT-738
+[07:56:15] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.21.4) has not yet been tested! Proceed with caution.
+[07:56:16] [Server thread/INFO]: [Minepacks] Loading server plugin Minepacks v2.4.31.4-T20240629215752
+[07:56:16] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
+[07:56:17] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[07:56:18] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[07:56:18] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v6.2.3
+[07:56:18] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.4
+[07:56:18] [Server thread/INFO]: [GriefPrevention] Loading server plugin GriefPrevention v16.18.4
+[07:56:18] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
+[07:56:18] [Server thread/INFO]: [nLogin] Loading server plugin nLogin v10.4.18
+[07:56:32] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[07:56:32] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.4.0-SNAPSHOT-738
+[07:56:32] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[07:56:33] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[07:56:44] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
+[07:56:45] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[07:56:46] [Server thread/INFO]: [nLogin] Enabling nLogin v10.4.18
+[07:56:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[07:56:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[07:56:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[07:56:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[07:56:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[07:56:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[07:56:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[07:56:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
+[07:56:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
+[07:56:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[07:56:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[07:56:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[07:56:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[07:56:46] [Server thread/INFO]: [nLogin] Successful plugin core start (took 0.73s)
+[07:56:47] [Server thread/INFO]:           __             _       
+[07:56:47] [Server thread/INFO]:   _ __   / /  ___   __ _(_)_ __  
+[07:56:47] [Server thread/INFO]:  | '_ \ / /  / _ \ / _` | | '_ \ 
+[07:56:47] [Server thread/INFO]:  | | | / /__| (_) | (_| | | | | |
+[07:56:47] [Server thread/INFO]:  |_| |_\____/\___/ \__, |_|_| |_|
+[07:56:47] [Server thread/INFO]:                   |___/            
+[07:56:47] [Server thread/INFO]:  By: www.nickuc.com - V 10.4.18 DEVELOPMENT
+[07:56:47] [Server thread/INFO]:  
+[07:56:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:56:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[07:56:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07:56:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:56:53] [Server thread/INFO]: Preparing level "world"
+[07:56:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:57:01] [Server thread/INFO]: Preparing spawn area: 0%
+[07:57:01] [Server thread/INFO]: Preparing spawn area: 0%
+[07:57:01] [Server thread/INFO]: Preparing spawn area: 0%
+[07:57:01] [Server thread/INFO]: Preparing spawn area: 0%
+[07:57:01] [Server thread/INFO]: Preparing spawn area: 2%
+[07:57:01] [Server thread/INFO]: Preparing spawn area: 8%
+[07:57:04] [Server thread/INFO]: Preparing spawn area: 10%
+[07:57:04] [Server thread/INFO]: Preparing spawn area: 10%
+[07:57:04] [Server thread/INFO]: Preparing spawn area: 10%
+[07:57:04] [Server thread/INFO]: Preparing spawn area: 10%
+[07:57:04] [Server thread/INFO]: Preparing spawn area: 10%
+[07:57:04] [Server thread/INFO]: Preparing spawn area: 10%
+[07:57:05] [Server thread/INFO]: Preparing spawn area: 63%
+[07:57:05] [Server thread/INFO]: Time elapsed: 6389 ms
+[07:57:05] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[07:57:07] [Server thread/INFO]: Preparing spawn area: 0%
+[07:57:07] [Server thread/INFO]: Preparing spawn area: 0%
+[07:57:07] [Server thread/INFO]: Preparing spawn area: 0%
+[07:57:08] [Server thread/INFO]: Preparing spawn area: 8%
+[07:57:08] [Server thread/INFO]: Preparing spawn area: 8%
+[07:57:09] [Server thread/INFO]: Preparing spawn area: 10%
+[07:57:09] [Server thread/INFO]: Preparing spawn area: 10%
+[07:57:09] [Server thread/INFO]: Preparing spawn area: 12%
+[07:57:10] [Server thread/INFO]: Preparing spawn area: 14%
+[07:57:10] [Server thread/INFO]: Preparing spawn area: 18%
+[07:57:10] [Server thread/INFO]: Preparing spawn area: 67%
+[07:57:11] [Server thread/INFO]: Time elapsed: 5254 ms
+[07:57:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[07:57:11] [Server thread/INFO]: Preparing spawn area: 0%
+[07:57:11] [Server thread/INFO]: Preparing spawn area: 0%
+[07:57:12] [Server thread/INFO]: Preparing spawn area: 8%
+[07:57:12] [Server thread/INFO]: Preparing spawn area: 10%
+[07:57:13] [Server thread/INFO]: Preparing spawn area: 14%
+[07:57:13] [Server thread/INFO]: Time elapsed: 2454 ms
+[07:57:13] [Server thread/INFO]: [Minepacks] Enabling Minepacks v2.4.31.4-T20240629215752
+[07:57:13] [Server thread/INFO]: [Minepacks] Starting Minepacks in standalone mode!
+[07:57:13] [Server thread/INFO]: [Minepacks] Config file successfully loaded.
+[07:57:13] [Server thread/WARN]: [Minepacks] ################################
+[07:57:13] [Server thread/WARN]: [Minepacks] Your minecraft version (MC 1.21.4-65-287eb52 (MC: 1.21.4)) is currently not compatible with this plugins version (2.4.31.4-T20240629215752). Please check for updates!
+[07:57:13] [Server thread/WARN]: [Minepacks] ################################
+[07:57:18] [Server thread/INFO]: [Minepacks]  Minepacks has been disabled.  :( 
+[07:57:18] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
+[07:57:19] [Server thread/INFO]: [SetHome] Enabling SetHome v6.2.3
+[07:57:20] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.4
+[07:57:20] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[07:57:20] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.4
+[07:57:20] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[07:57:20] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.18.4
+[07:57:21] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
+[07:57:22] [Server thread/INFO]: [GriefPrevention] 2 total claims loaded.
+[07:57:22] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
+[07:57:22] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
+[07:57:22] [Server thread/INFO]: [GriefPrevention] Boot finished.
+[07:57:23] [Server thread/INFO]: [spark] Starting background profiler...
+[07:57:24] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[07:57:24] [Server thread/INFO]: [Geyser-Spigot] 
+[07:57:24] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b739 (git-master-623ec2b)
+[07:57:24] [Server thread/INFO]: [Geyser-Spigot] 
+[07:57:24] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[07:57:32] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 25565
+[07:57:32] [Server thread/INFO]: [Geyser-Spigot] Done (8.14s)! Run /geyser help for help!
+[07:57:32] [Server thread/INFO]: Done preparing level "world" (39.156s)
+[07:57:32] [Server thread/INFO]: Running delayed init tasks
+[07:57:32] [Server thread/INFO]: Done (117.637s)! For help, type "help"
+[07:57:37] [Server thread/INFO]: 
+[07:57:37] [Server thread/INFO]:  Thank you so much for choosing nLogin! <3
+[07:57:37] [Server thread/INFO]: 
+[07:57:37] [Server thread/INFO]:  For your safety, please read the message below:
+[07:57:37] [Server thread/INFO]:   Never download nLogin from unknown sources.
+[07:57:37] [Server thread/INFO]:   A modified version may contain malicious software.
+[07:57:37] [Server thread/INFO]: 
+[07:57:37] [Server thread/INFO]:  Trusted sources:
+[07:57:37] [Server thread/INFO]:   www.nickuc.com
+[07:57:37] [Server thread/INFO]:   www.github.com/nickuc
+[07:57:37] [Server thread/INFO]:   OpeNLogin installer (from Spigot or GitHub)
+[07:57:37] [Server thread/INFO]: 
+[07:57:37] [Server thread/INFO]:  Official support channels:
+[07:57:37] [Server thread/INFO]:   Discord group: www.nickuc.com/discord
+[07:57:37] [Server thread/INFO]:   Documentation: docs.nickuc.com/nlogin/
+[07:57:37] [Server thread/INFO]:   Email: support@nickuc.com
+[07:57:37] [Server thread/INFO]:   YouTube: youtube.com/nickuc
+[07:57:37] [Server thread/INFO]: 
+[07:57:37] [Server thread/INFO]:  To remove this warning, log in with "nlogin.admin" permission on the server
+[07:57:37] [Server thread/INFO]:  and click the "Setup plugin" button to configure your plugin.
+[07:57:37] [Server thread/INFO]: 
+[07:57:48] [User Authenticator #0/INFO]: UUID of player wayuunaikii is 0c1f12db-3a78-3f92-9816-60f2f570a1a6
+[07:57:51] [Server thread/INFO]: wayuunaikii[/127.13.82.192:44483] logged in with entity id 15 at ([world]-1160.7290422567864, -42.0, 592.5481482360883)
+[07:57:55] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 7c03a67d-e54c-45fd-a1f8-9f69d4c6c06f, mapped to Villager['Villager'/77, uuid='7c03a67d-e54c-45fd-a1f8-9f69d4c6c06f', l='ServerLevel[world]', x=-1088.04, y=65.00, z=577.90, cpos=[-69, 36], tl=184599, v=true], can't add Villager['Villager'/94, uuid='7c03a67d-e54c-45fd-a1f8-9f69d4c6c06f', l='ServerLevel[world]', x=-1087.98, y=65.00, z=577.97, cpos=[-68, 36], tl=184600, v=false]
+[07:58:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3157ms or 63 ticks behind
+[07:58:06] [Folia Async Scheduler Thread #2/INFO]: [nLogin] The user wayuunaikii has successfully logged in.
+[08:23:48] [Server thread/INFO]: Villager Villager['Leatherworker'/97, uuid='62e5792e-d524-4c57-8653-998c37b2992b', l='ServerLevel[world]', x=-1165.94, y=71.00, z=541.03, cpos=[-73, 33], tl=214696, v=true] died, message: 'Leatherworker was slain by Zombie'
+[08:46:02] [Server thread/INFO]: wayuunaikii lost connection: Disconnected
+[08:46:17] [Server thread/INFO]: Stopping server
+[08:46:17] [Server thread/INFO]: [nLogin] Disabling nLogin v10.4.18
+[08:46:17] [Server thread/INFO]: [nLogin] Successful plugin core shutdown (took 0.13s)
+[08:46:17] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
+[08:46:17] [Server thread/INFO]: [GriefPrevention] Disabling GriefPrevention v16.18.4
+[08:46:17] [Server thread/INFO]: [GriefPrevention] GriefPrevention disabled.
+[08:46:17] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v7.4
+[08:46:17] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[08:46:17] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 7.4
+[08:46:17] [Server thread/INFO]: [SetHome] Disabling SetHome v6.2.3
+[08:46:17] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
+[08:46:17] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[08:46:17] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[08:46:17] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.4.0-SNAPSHOT-738
+[08:46:17] [Server thread/INFO]: Saving players
+[08:46:17] [Server thread/INFO]: Saving worlds
+[08:46:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08:46:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[08:46:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[08:46:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[08:46:17] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 3 entity chunks, 0 poi chunks in world 'world' in 0.01s
+[08:46:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[08:46:17] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[08:46:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[08:46:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[08:46:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[08:46:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[08:46:17] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[08:46:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[08:46:17] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[08:46:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[08:46:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[08:46:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[08:46:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[08:46:17] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
+[08:46:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[08:46:17] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[08:46:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:46:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:46:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:46:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08:46:18] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[08:46:18] [Server thread/INFO]: All I/O tasks to complete
+[08:46:18] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[08:46:18] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
